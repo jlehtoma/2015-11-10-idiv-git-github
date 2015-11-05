@@ -93,6 +93,6 @@ following text editors:
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) (Linux)
 - [Kate](http://kate-editor.org/) (Linux)
 
-You can use whatever text editor you like, but you will have figure out yourself
+You can use whatever text editor you like, but you will have to figure out yourself
 how to configure it with Git. **NOTE** On Windows, the use of Notepad is 
 strongly discouraged.
