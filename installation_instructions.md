@@ -1,6 +1,3 @@
----
-output: pdf_document
----
 # Installation instructions
 
 **Workshop:** Version control for more effective collaboration - Introducing Git and 
