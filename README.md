@@ -5,7 +5,7 @@ output:
     theme: flatly
 ---
 
-## Workshop: Version control for more effective collaboration - Introducing git and GitHub (3 hrs)
+## Workshop: Version control for more effective collaboration - Introducing Git and GitHub (3 hrs)
 
 **Attribution** Most of the content in this workshop is from lessons by 
 [Software Carpentry](https://swcarpentry.github.io/git-novice/) released under [CC BY 4.0-license](http://software-carpentry.org/license.html#cc-by).
@@ -14,7 +14,7 @@ output:
 
 * Introduce the concept of version control and why it's useful for scientists.
 * Introduce git version control tool and it's commandline interface.
-* Demonstrate the basics of git.
+* Demonstrate the basics of Git.
 * Demonstrate the basics of GitHub web service.
 
 ### Description
