@@ -1,7 +1,9 @@
 ## Workshop: Version control for more effective collaboration - Introducing Git and GitHub (3 hrs)
 
-**Attribution** Most of the content in this workshop is from lessons by 
-[Software Carpentry](https://swcarpentry.github.io/git-novice/) released under [CC BY 4.0-license](http://software-carpentry.org/license.html#cc-by).
+**Instructor:** Joona Lehtomäki, University of Helsinki.  
+**Place and time:**  German Centre for Integrative Biodiversity Research (iDiv),
+2015-11-10, 9:30 - 12:30.  
+**Attribution:** Instructions below adapted from  [Software Carpentry](https://swcarpentry.github.io/git-novice/) released under [CC BY 4.0-license](http://software-carpentry.org/license.html#cc-by).
 
 ### Workshop objectives
 

@@ -32,7 +32,8 @@ you the power to do simple tasks more quickly.
 #### Windows
 
 Install Git for Windows by downloading and running [the installer](http://msysgit.github.io/). 
-This will provide you with both Git and Bash in the Git Bash program.
+This will provide you with both Git and Bash in the Git Bash program. Accept
+all the default values in the installer.
 
 #### Mac OS X
 
@@ -78,13 +79,23 @@ If Git is not already available on your machine you can try to install it via
 your distro's package manager. For Debian/Ubuntu run `sudo apt-get install git` 
 and for Fedora run `sudo yum install git`.
 
+## GitHub
+
+Be sure to [register to GitHub](https://github.com/join) before the workshop.
+
 ## Text editor
 
 In this workshop, we will be doing simple edits to plain text files, but no 
-coding. This means that any simple text editor such as Notepad will do, but
-you will have to have *some* text editor. Popular text editors include 
-[Notepad++](http://notepad-plus-plus.org/) (Win), 
-[Sublime Text](http://www.sublimetext.com/) (Win/Mac/Linux), 
-[Text Wrangler](http://www.barebones.com/products/textwrangler/) (Mac), 
-[Gedit](https://wiki.gnome.org/Apps/Gedit) (Linux) and 
-[Kate](http://kate-editor.org/) (Linux). 
+coding so you will not need features such as syntax highlighting etc. However, 
+we will configure Git to use a particular text editor, so choose one of the 
+following text editors:
+
+- [Notepad++](http://notepad-plus-plus.org/) (Win)
+- [Sublime Text](http://www.sublimetext.com/) (Win/Mac/Linux)
+- [Text Wrangler](http://www.barebones.com/products/textwrangler/) (Mac)
+- [Gedit](https://wiki.gnome.org/Apps/Gedit) (Linux)
+- [Kate](http://kate-editor.org/) (Linux)
+
+You can use whatever text editor you like, but you will have figure out yourself
+how to configure it with Git. **NOTE** On Windows, the use of Notepad is 
+strongly discouraged.
