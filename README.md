@@ -1,10 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document:
-    theme: flatly
----
-
 ## Workshop: Version control for more effective collaboration - Introducing Git and GitHub (3 hrs)
 
 **Attribution** Most of the content in this workshop is from lessons by 
