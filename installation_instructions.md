@@ -29,19 +29,19 @@ contact Joona (<joona.lehtomaki@gmail.com>) in advance.
 [Bash](https://www.gnu.org/software/bash/) is a commonly-used shell that gives 
 you the power to do simple tasks more quickly. 
 
-### Windows
+#### Windows
 
 Install Git for Windows by downloading and running [the installer](http://msysgit.github.io/). 
 This will provide you with both Git and Bash in the Git Bash program.
 
-### Mac OS X
+#### Mac OS X
 
 The default shell in all versions of Mac OS X is Bash, so no need to install 
 anything. You access Bash from the Terminal (found in 
 `/Applications/Utilities`). You may want to keep Terminal in your dock for this
 workshop.
 
-### Linux
+#### Linux
 
 The default shell is usually Bash, but if your machine is set up differently you 
 can run it by opening a terminal and typing `bash`. There is no need to install 
@@ -55,12 +55,12 @@ on e.g. [GitHub](github.com). For GitHub, you will need
 [a supported web browser](https://help.github.com/articles/supported-browsers/) (current versions of Chrome, Firefox or Safari, or Internet Explorer version 9 
 or above).
 
-### Windows
+#### Windows
 
 Git should be installed on your computer as part of your Bash install (described 
 above).
 
-### Mac OS X
+#### Mac OS X
 
 **For OS X 10.9 and higher**, install Git for Mac by downloading and running the 
 most recent "mavericks" installer from 
@@ -72,7 +72,7 @@ Git is a command line program.
 installer labelled "snow-leopard" 
 [available here](http://sourceforge.net/projects/git-osx-installer/files/).
 
-### Linux
+#### Linux
 
 If Git is not already available on your machine you can try to install it via 
 your distro's package manager. For Debian/Ubuntu run `sudo apt-get install git` 
