@@ -110,16 +110,31 @@ installa nano, follow the instructions below:
 #### Windows
 
 Download the [Software Carpentry Windows installer](http://files.software-carpentry.org/SWCarpentryInstaller.exe) 
-and double click on the file to run it. This installer requires an active 
-internet connection.
+and double click on the file to run it. This installer requires an active internet connection. Once the installation is 
+complete, open `Start menu` -> `Git` -> `Git Bash` and type the following command:
+
+```
+nano
+```
+CTRL+X exits nano.
 
 #### Mac OS X
 
-nano hould be pre-installed.
+nano hould be pre-installed. To test if this is the case, open up your terminal and type the following command:
+
+```
+nano
+```
+CTRL+X exits nano.
 
 #### Linux
 
-nano should be pre-installed.
+nano should be pre-installed. To test if this is the case, open up your terminal and type the following command:
+
+```
+nano
+```
+CTRL+X exits nano.
 
 ### Other editors
 
