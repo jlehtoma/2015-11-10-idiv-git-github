@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 # Installation instructions
 
 **Workshop:** Version control for more effective collaboration - Introducing Git and 
@@ -29,8 +32,23 @@ you the power to do simple tasks more quickly.
 #### Windows
 
 Install Git for Windows by downloading and running [the installer](http://msysgit.github.io/). 
-This will provide you with both Git and Bash in the Git Bash program. Accept
-all the default values in the installer.
+This will provide you with both Git and Bash in the Git Bash program.
+
+Run the installer and follow the steps bellow:
+
+1. Click on "Next".
+1. Click on "Next".
+1. Click on "Next".
+1. Click on "Next".
+1. Click on "Next".
+1. Select **"Use Git from the Windows Command Prompt"** and click on "Next". If you 
+forgot to do this programs that you need for the workshop will not work 
+properly. If this happens rerun the installer and select the appropriate option.
+1. Click on "Next". Keep **"Checkout Windows-style, commit Unix-style line 
+endings"** selected.
+1. Select **"Use Windows' default console window"** and click on "Next".
+1. Click on "Next".
+1. Click on "Finish".
 
 #### Mac OS X
 
