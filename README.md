@@ -8,7 +8,7 @@
 ### Workshop objectives
 
 * Introduce the concept of version control and why it's useful for scientists.
-* Introduce git version control tool and it's commandline interface.
+* Introduce Git version control tool and it's commandline interface.
 * Demonstrate the basics of Git.
 * Demonstrate the basics of GitHub web service.
 
