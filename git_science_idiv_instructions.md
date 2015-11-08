@@ -103,15 +103,32 @@ Be sure to [register to GitHub](https://github.com/join) before the workshop.
 
 In this workshop, we will be doing simple edits to plain text files, but no 
 coding so you will not need features such as syntax highlighting etc. However, 
-we will configure Git to use a particular text editor, so choose one of the 
-following text editors:
+we will configure Git to use a particular text editor. The recommended editor 
+is [GNU nano](http://www.nano-editor.org/) which is simple CLI text editor. To
+installa nano, follow the instructions below:
+
+#### Windows
+
+Download the [Software Carpentry Windows installer](http://files.software-carpentry.org/SWCarpentryInstaller.exe) 
+and double click on the file to run it. This installer requires an active 
+internet connection.
+
+#### Mac OS X
+
+nano hould be pre-installed.
+
+#### Linux
+
+nano should be pre-installed.
+
+### Other editors
+
+You can also choose so choose to use one of the following text editors, but 
+make sure the editor is in your system path. **NOTE** On Windows, the use of 
+Notepad is strongly discouraged.
 
 - [Notepad++](http://notepad-plus-plus.org/) (Win)
 - [Sublime Text](http://www.sublimetext.com/) (Win/Mac/Linux)
 - [Text Wrangler](http://www.barebones.com/products/textwrangler/) (Mac)
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) (Linux)
 - [Kate](http://kate-editor.org/) (Linux)
-
-You can use whatever text editor you like, but you will have to figure out yourself
-how to configure it with Git. **NOTE** On Windows, the use of Notepad is 
-strongly discouraged.
