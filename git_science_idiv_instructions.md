@@ -44,8 +44,9 @@ Run the installer and follow the steps bellow:
 1. Select **"Use Git from the Windows Command Prompt"** and click on "Next". If you 
 forgot to do this programs that you need for the workshop will not work 
 properly. If this happens rerun the installer and select the appropriate option.
-1. Click on "Next". Keep **"Checkout Windows-style, commit Unix-style line 
-endings"** selected.
+1. Keep **"Use OpenSSH"** selected and Click on "Next". 
+1. Keep **"Checkout Windows-style, commit Unix-style line endings"** selected 
+and click on "Next".
 1. Select **"Use Windows' default console window"** and click on "Next".
 1. Click on "Next".
 1. Click on "Finish".
